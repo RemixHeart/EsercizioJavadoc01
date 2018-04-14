@@ -16,14 +16,6 @@ Creare la documentazione con i JAVADOC facendo riferimento al documento:
 
 * http://www.oracle.com/technetwork/java/javase/tech/index-137868.html
 
-spero che la devoti non interroghi :(
+### SRS
 
-spero che la devoti non interroghi :(
 
-spero che la devoti non interroghi :(
-
-spero che la devoti non interroghi :(
-
-spero che la devoti non interroghi :(
-
-:( :( :( :( :( :(
