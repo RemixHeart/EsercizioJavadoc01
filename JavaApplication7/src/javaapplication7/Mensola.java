@@ -11,6 +11,7 @@ package javaapplication7;
  */
 public class Mensola {
     
+    
     private static final int max_num_volumi = 100;
     private Libro volumi[];
 

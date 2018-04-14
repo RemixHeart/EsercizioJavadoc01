@@ -27,7 +27,6 @@ public class Libro {
         this.isbn = isbn;
     }
     
-    
     /**
      * Costruttore copia della classe Libro
      * serve ad clonare o duplicare un libro gia esistente
